@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e4b344123b1193743aac5666500f5110
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heightmap: {fileID: 2800000, guid: a538af79885213b41b691f2e25c9c703, type: 3}
+  - terrain: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
